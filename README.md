@@ -1,2 +1,2 @@
 # DreamsUnlocked
-Landing page & privacy policy for Dreams Unlocke
+Landing page & privacy policy for Dreams Unlocked
